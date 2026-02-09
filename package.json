@@ -1,0 +1,9 @@
+{
+  "name": "mev-backrun-arbitrage-bot",
+  "version": "1.0.0",
+  "description": "MEV searcher for Uniswap V2 backrunning",
+  "dependencies": {
+    "ethers": "^6.10.0",
+    "@flashbots/ethers-provider-bundle": "^1.0.0"
+  }
+}
